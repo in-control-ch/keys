@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../webusb"
+		},
+		{
+			"name": "TastenScanner",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
